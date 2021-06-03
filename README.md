@@ -1,4 +1,4 @@
-这里是公众号里面历史文档的备份，**只包含2021年的**，其它时间的出门拐弯（[https://github.com/lyao222lll](https://github.com/lyao222lll)）
+这里是公众号里面历史文档的备份，**只包含2021年的（而且只是自定义数据的那部分）**，其它时间的出门拐弯（[https://github.com/lyao222lll](https://github.com/lyao222lll)）
 
 看心情瞎写，无固定周期更新
 
